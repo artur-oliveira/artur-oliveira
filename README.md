@@ -1,9 +1,23 @@
 # Artur Oliveira
 
-Aqui estão algumas informações a respeito de mim
+Bem-vindo ao meu perfil no GitHub! Aqui estão algumas informações sobre minha formação e interesses:
 
-- 🔭 Estou estudando atualmente no IFPI cursando o 4º período de Análise e Desenvolvimento de Sistemas
-- 🌱 Atualmente estudando PHP, mais precisamente o framework Laravel
-- 👯 Posso ajudar principalmente em Python, em frameworks como Django ou Flask, mais precisamente no backend (Apesar de conseguir fazer algo no frontend com Bootstrap)
-- 💬 Tenho interesse também em Java e Ruby, além de gostar de Análise de dados e estatística
-- 📫 Como me contatar: Mande um email para <artur.oliveira9876@gmail.com>
+## Projetos
+- [**DF-e**](https://github.com/artur-oliveira/dfe): Biblioteca para comunicação com os WebServices brasileiros construída utilizando Java
+- [**Cryto Doc**](https://github.com/artur-oliveira/crypto-doc): Serviço de armazenamento de documentos utilizando criptografia AES combinado com RSA
+
+## Interesses
+- 💻: Java, Python e TypesScript
+- 🗃️: Banco de dados SQL e NoSQL
+- 🌐: Desenvolvimento Web e Microserviços em geral
+- ☁️: Infraestrutura em nuvem utilizando AWS
+- 📊: Atividades fiscais brasileiras
+
+
+## Acadêmico
+
+- 🔭: Cursando o último período de Análise e Desenvolvimento de Sistemas no IFPI.
+- 🎖️: Top 2 do IFPI no site de programação [BeeCrowd](https://www.beecrowd.com.br/judge/pt/users/university/ifpi-geral)
+
+## Profissional
+- 💼: Desenvolvedor Back-end na [RevGás](https://revgas.com)
