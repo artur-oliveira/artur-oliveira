@@ -1,5 +1,8 @@
 # Artur Oliveira
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README-en.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README.md)
+
 Bem-vindo ao meu perfil no GitHub! Aqui estão algumas informações sobre minha formação e interesses:
 
 ## Projetos
