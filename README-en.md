@@ -45,7 +45,9 @@ Welcome to my GitHub profile! Here you’ll find some of my personal projects, t
 ## 📫 Contact
 
 - GitHub: [@artur-oliveira](https://github.com/artur-oliveira)
-- Email: (add if you’d like)
+- E-mail: artur.oliveira9876@gmail.com
+- Instagram: [@artur.o.carvalho](https://instagram.com/artur.o.carvalho)
+- LinkedIn: [artur-oliveira-carvalho](https://www.linkedin.com/in/artur-oliveira-carvalho/)
 
 ---
 
