@@ -46,6 +46,10 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus p
 ## 📫 Contato
 
 - GitHub: [@artur-oliveira](https://github.com/artur-oliveira)
+- E-mail: artur.oliveira9876@gmail.com
+- Instagram: [@artur.o.carvalho](https://instagram.com/artur.o.carvalho)
+- LinkedIn: [artur-oliveira-carvalho](https://www.linkedin.com/in/artur-oliveira-carvalho/)
+
 ---
 
 Obrigado por visitar! 😊  
