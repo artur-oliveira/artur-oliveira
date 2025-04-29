@@ -1,26 +1,51 @@
-# Artur Oliveira
+# 👋 Artur Oliveira
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README-en.md)
 [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README.md)
 
-Bem-vindo ao meu perfil no GitHub! Aqui estão algumas informações sobre minha formação e interesses:
+Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos pessoais, interesses técnicos e um pouco sobre minha trajetória acadêmica e profissional.
 
-## Projetos
-- [**DF-e**](https://github.com/artur-oliveira/dfe): Biblioteca para comunicação com os WebServices brasileiros construída utilizando Java
-- [**Cryto Doc**](https://github.com/artur-oliveira/crypto-doc): Serviço de armazenamento de documentos utilizando criptografia AES combinado com RSA
+---
 
-## Interesses
-- 💻: Java, Python e TypesScript
-- 🗃️: Banco de dados SQL e NoSQL
-- 🌐: Desenvolvimento Web e Microserviços em geral
-- ☁️: Infraestrutura em nuvem utilizando AWS
-- 📊: Atividades fiscais brasileiras
+## 🚀 Projetos em Destaque
 
+- [**DF-e**](https://github.com/artur-oliveira/dfe)  
+  Biblioteca Java para comunicação com os WebServices fiscais brasileiros.
 
-## Acadêmico
+- [**Crypto Doc**](https://github.com/artur-oliveira/crypto-doc)  
+  Serviço seguro de armazenamento de documentos usando criptografia AES + RSA.
 
-- 🔭: Cursando o último período de Análise e Desenvolvimento de Sistemas no IFPI.
-- 🎖️: Top 2 do IFPI no site de programação [BeeCrowd](https://www.beecrowd.com.br/judge/pt/users/university/ifpi-geral)
+- [**Play Domino**](https://github.com/artur-oliveira/play-domino)  
+  Jogo de dominó online com sistema de apostas e controle de carteira.
 
-## Profissional
-- 💼: Desenvolvedor Back-end na [RevGás](https://revgas.com)
+---
+
+## 💡 Interesses Técnicos
+
+- 👨‍💻 Linguagens: **Java**, **Python**, **TypeScript**
+- 🗃️ Bancos de Dados: **SQL** e **NoSQL**
+- 🌐 Desenvolvimento Web & **Microserviços**
+- ☁️ Cloud: **AWS**, com foco em arquitetura escalável
+- 📊 Sistemas Fiscais Brasileiros (DF-e, NFe, etc.)
+
+---
+
+## 🎓 Formação Acadêmica
+
+- 🎓 Cursando o último período de **Análise e Desenvolvimento de Sistemas** no **IFPI**
+- 🏅 Top 2 do IFPI no ranking de programação do [BeeCrowd](https://www.beecrowd.com.br/judge/pt/users/university/ifpi-geral)
+
+---
+
+## 👔 Experiência Profissional
+
+- 💼 Desenvolvedor **Back-end** na [RevGás](https://revgas.com).
+
+---
+
+## 📫 Contato
+
+- GitHub: [@artur-oliveira](https://github.com/artur-oliveira)
+---
+
+Obrigado por visitar! 😊  
