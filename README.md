@@ -23,10 +23,10 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus p
 ## 💡 Interesses Técnicos
 
 - 👨‍💻 Linguagens: **Java**, **Python**, **TypeScript**
-- 🗃️ Bancos de Dados: **SQL** e **NoSQL**
 - 🌐 Desenvolvimento Web & **Microserviços**
 - ☁️ Cloud: **AWS**, com foco em arquitetura escalável
 - 📊 Sistemas Fiscais Brasileiros (DF-e, NFe, etc.)
+- 🔐 Sistemas Financeiros e Integrações
 
 ---
 
