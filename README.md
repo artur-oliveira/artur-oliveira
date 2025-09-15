@@ -1,49 +1,48 @@
 # 👋 Artur Oliveira
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README-en.md)
-[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README.md)
+[![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/artur-oliveira/artur-oliveira/blob/main/README_pt_BR.md)
 
-Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus projetos pessoais, interesses técnicos e um pouco sobre minha trajetória acadêmica e profissional.
+Welcome to my GitHub profile! Here you’ll find some of my personal projects, technical interests, and a bit about my academic and professional journey.
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Highlighted Projects
 
 - [**DF-e**](https://github.com/artur-oliveira/dfe)  
-  Biblioteca Java para comunicação com os WebServices fiscais brasileiros.
+  Java library for communicating with Brazilian fiscal WebServices.
 
 - [**Crypto Doc**](https://github.com/artur-oliveira/crypto-doc)  
-  Serviço seguro de armazenamento de documentos usando criptografia AES + RSA.
+  Secure document storage service using AES + RSA encryption.
 
 - [**Play Domino**](https://github.com/artur-oliveira/play-domino)  
-  Jogo de dominó online com sistema de apostas e controle de carteira.
+  Online domino game with betting system and wallet management.
 
 ---
 
-## 💡 Interesses Técnicos
+## 💡 Technical Interests
 
-- 👨‍💻 Linguagens: **Java**, **Python**, **TypeScript**
-- 🌐 Desenvolvimento Web & **Microserviços**
-- ☁️ Cloud: **AWS**, com foco em arquitetura escalável
-- 📊 Sistemas Fiscais Brasileiros (DF-e, NFe, etc.)
-- 🔐 Sistemas Financeiros e Integrações
+- 👨‍💻 Languages: **Java**, **Python**, **TypeScript**
+- 🌐 Web Development & **Microservices**
+- ☁️ Cloud Infrastructure using **AWS**
+- 📊 Brazilian Fiscal Systems (DF-e, NFe, etc.)
+- 🔐 Financial Systems and Integrations
+---
+
+## 🎓 Academic Background
+
+- 🎓 Final-year student in **System Analysis and Development** at **IFPI**
+- 🏅 Ranked Top 2 at IFPI on the [BeeCrowd](https://www.beecrowd.com.br/judge/pt/users/university/ifpi-geral) programming platform
 
 ---
 
-## 🎓 Formação Acadêmica
+## 👔 Professional Experience
 
-- 🎓 Cursando o último período de **Análise e Desenvolvimento de Sistemas** no **IFPI**
-- 🏅 Top 2 do IFPI no ranking de programação do [BeeCrowd](https://www.beecrowd.com.br/judge/pt/users/university/ifpi-geral)
-
----
-
-## 👔 Experiência Profissional
-
-- 💼 Desenvolvedor **Back-end** na [RevGás](https://revgas.com).
+- 💼 Back-end Developer at [RevGás](https://revgas.com), working on REST APIs, external integrations, and process automation.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - GitHub: [@artur-oliveira](https://github.com/artur-oliveira)
 - E-mail: artur.oliveira9876@gmail.com
@@ -52,4 +51,4 @@ Seja bem-vindo ao meu perfil do GitHub! Aqui você encontrará alguns dos meus p
 
 ---
 
-Obrigado por visitar! 😊  
+Thanks for stopping by! 😊  
